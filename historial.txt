@@ -1,0 +1,81 @@
+    1  git config --global user.email "tg17805@gmail.com"
+    2  git config --global user.name "tomasGLZ"
+    3  git commit -m "mi primer commit" 
+    4  cat ssh
+    5  ssh-keygen -t ed25519
+    6  ls
+    7  ls -la
+    8  cd .ssh
+    9  cat id_ed25519.pub
+   10  ..
+   11  cd ..
+   12  ls -la
+   13  cd .ssh
+   14  ls
+   15  cat id_ed25519.pub~
+   16  cd ..
+   17  git init
+   18  git status
+   19  cd ..
+   20  ld
+   21  ls
+   22  exit
+   23  ls
+   24  cd repogit
+   25  cd ..
+   26  ls
+   27  git status
+   28  cd ..
+   29  ls
+   30  cd home
+   31  ls
+   32  cd ..
+   33  cd repogit
+   34  exit
+   35  cd repogit
+   36  cd ,,
+   37  cd ..
+   38  ls -la
+   39  cd .ssh
+   40  ls
+   41  cat id_ed25519.pub
+   42  AAAAC3NzaC1lZDI1NTE5AAAAIFXPGN/6WWjSZ782IsNT7+w7+sXUXb7Sev52rm44H83b
+   43  cd ..
+   44  cd repogit
+   45  ls
+   46  cd utn-fra_so_onbording
+   47  cd UTN-FRA_SO_onBording
+   48  history
+   49  history > historial.txt
+   50  ls
+   51  git status
+   52  git add .
+   53  git commit -m "segundo commit"
+   54  git status
+   55  cd ..
+   56  ls
+   57  git status
+   58  git clone git@github.com:TomasGLZ/gonzalez_vagrant.git
+   59  ls
+   60  git status
+   61  clear
+   62  history > historia.txt
+   63  ls
+   64  git status
+   65  cd ..
+   66  cd repogit
+   67  ssh-keygen -t ed25519
+   68  ls -la
+   69  cd .ssh
+   70  cd ..
+   71  ssh-keygen -t ed25519
+   72  ls -la
+   73  cd .ssh
+   74  ls
+   75  cat id_ed25519.pub
+   76  cd ..
+   77  cd repogit
+   78  git clone git@github.com:TomasGLZ/gonzalez_vagrant.git
+   79  ls 
+   80  cd gonzalez_vagrant
+   81  history > historial.txt
